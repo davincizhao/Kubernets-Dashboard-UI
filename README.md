@@ -29,3 +29,7 @@ kubectl -n kube-system describe $(kubectl -n kube-system get secret -n kube-syst
 ![UI-dash Login 1](https://github.com/davincizhao/Kubernets-Dashboard-UI/blob/main/dash_board_login1.PNG)
 
 - *UI-dash Login 2*
+![UI-dash Login 2](https://github.com/davincizhao/Kubernets-Dashboard-UI/blob/main/dashboard_login2.PNG)
+
+- *K8S DashBoard*
+![K8S DashBoard](https://github.com/davincizhao/Kubernets-Dashboard-UI/blob/main/dashboard_UI.PNG)
