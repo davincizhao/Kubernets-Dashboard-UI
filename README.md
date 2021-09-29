@@ -24,3 +24,8 @@ https://10.0.0.26:8000/
 ```
 kubectl -n kube-system describe $(kubectl -n kube-system get secret -n kube-system -o name | grep namespace) | grep token
 ```
+## Screenshots
+- *UI-dash Login 1*
+![UI-dash Login 1](https://github.com/davincizhao/Kubernets-Dashboard-UI/blob/main/dash_board_login1.PNG)
+
+- *UI-dash Login 2*
